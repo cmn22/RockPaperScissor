@@ -4,7 +4,7 @@ A playful SwiftUI game where you battle a robot in classic Rock-Paper-Scissors! 
 ---
 
 ### **Preview**  
-<img src="[YOUR_SCREENSHOT_URL]" width="300">  
+<img src="https://github.com/user-attachments/assets/d2ded278-b28e-4b3d-9652-9080f7a2a33b" width="300">  
 
 ---
 
